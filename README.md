@@ -1,7 +1,7 @@
 - 👋 Hi, I’m BrandonMofat
 - 👀 I’m interested in Programing and Computer Works
 - 🌱 I’m currently learning Codding
-- 💞️ I’m looking to collaborate on Programs
+- 💞️ I’m looking to collaborate on WhatsApp
 - 📫 How to reach me Call/SMS/WhatsApp +254717530221
 
 <!---
